@@ -40,6 +40,7 @@ public class DBUtil3{
 			
 		} catch (SQLException e) {
 			System.out.println("DB연결 실패!!!");
+			System.out.println("DB연결 실패!!!");
 			return null;
 		}
 	}
